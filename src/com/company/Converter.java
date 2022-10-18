@@ -32,7 +32,6 @@ public class Converter {
         }
         while (number != 0);
         return roman;
-
     }
 
     public int romanToInt(String s) {
